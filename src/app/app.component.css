@@ -1,9 +1,51 @@
 
 
+ body {
+  background-image: url("../assets/images/dd.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+
 #head{
 
    color: hotpink;
    font-size: 75px;
    margin-left: 100px;
    margin-top: 50ps;
+
+   text-shadow: 1px 1px #2F4F4F, 
+                2px 2px #2F4F4F, 
+                3px 3px #2F4F4F, 
+                4px 4px #2F4F4F, 
+                5px 5px #2F4F4F, 
+                6px 6px #2F4F4F;
 }
+
+
+#description {
+
+display: flex; 
+justify-content: center;
+align-items: center;
+margin-right: -350px;
+margin-top: 360px;
+
+
+ color: hotpink;
+ font-size: 20px;
+ font-weight: 900;
+
+
+}
+
+
+
+
+
+
+
+
+
